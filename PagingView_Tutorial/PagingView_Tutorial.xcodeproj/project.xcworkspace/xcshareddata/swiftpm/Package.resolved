@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pagingkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kazuhiro4949/PagingKit",
+      "state" : {
+        "branch" : "master",
+        "revision" : "d44f420cabf11b6f9cbbad7c9dda307c9d440df0"
+      }
+    }
+  ],
+  "version" : 2
+}
